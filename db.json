@@ -1,14 +1,42 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "name": "Koko"
+  },
+  {
+    "id": 2,
+    "name": "Pola"
+  },
+  {
+    "id": 3,
+    "name": "Samara"
+  },
+  {
+    "id": 4,
+    "name": "Yara"
+  },
+  {
+    "id": 5,
+    "name": "Wiko"
+  },
+  {
+    "id": 6,
+    "name": "Gorja"
+  },
+  {
+    "id": 7,
+    "name": "Didi"
+  },
+  {
+    "id": 8,
+    "name": "Fofoa"
+  },
+  {
+    "id": 9,
+    "name": "Zenoo"
+  },
+  {
+    "id": 10,
+    "name": "Nooua"
   }
-}
+]  
